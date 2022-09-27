@@ -600,7 +600,7 @@ a:hover{
     letter-spacing: 0.6px;
     color: #212353;
     margin-left: 240px;
-    margin-top: 67px;
+    margin-top: 47px;
     margin-bottom: 10px;
 }
 
@@ -634,4 +634,56 @@ a:hover{
     height: 60px;
     margin-top: 117px;
     margin-left: 722px;
+}
+
+.about-two{
+    width: 166px;
+    height: 220px;
+    margin-left: 140px;
+    margin-top: 140px;
+}
+
+.title-about-two{
+    font-family: 'Avenir', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 160%;
+    color: #212353;
+}
+
+.list-about-two{
+    list-style-type: none;
+    text-align: justify;
+    width: 166px;
+    height: 160px;
+    padding: 0;
+    margin-top: 35px;
+    font-family: 'Avenir', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 250%;
+    color: #212353;
+}
+
+.help-two{
+    width: 166px;
+    height: 220px;
+    margin-left: 50px;
+    margin-top: 140px;
+}
+
+.facebook{
+margin-top: 30px;
+}
+
+.instagram{
+    margin-left: 14px;
+    margin-top: 30px;
+}
+
+.twitter{
+    margin-left: 14px;
+    margin-top: 30px;
 }
