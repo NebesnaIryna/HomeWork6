@@ -614,27 +614,6 @@ a:hover{
     margin-left: 240px;
 }
 
-.datawarehouse{
-    width: 360px;
-    height: 50px;
-    font-family: 'Avenir', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 180%;
-    align-items: center;
-    letter-spacing: 0.01em;
-    color: #212353;
-    margin-left: 240px;
-    margin-top: 118px;
-}
-
-.pictures7{
-    width: 60px;
-    height: 60px;
-    margin-top: 117px;
-    margin-left: 722px;
-}
 
 .about-two{
     width: 166px;
@@ -686,4 +665,27 @@ margin-top: 30px;
 .twitter{
     margin-left: 14px;
     margin-top: 30px;
+}
+
+.datawarehouse{
+    width: 360px;
+    height: 50px;
+    font-family: 'Avenir', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 180%;
+    align-items: center;
+    letter-spacing: 0.01em;
+    color: #212353;
+    margin-left: 240px;
+    margin-top: 118px;
+    margin-bottom: 100px;
+}
+
+.pictures7{
+    width: 60px;
+    height: 60px;
+    margin-top: 117px;
+    margin-left: 722px;
 }
